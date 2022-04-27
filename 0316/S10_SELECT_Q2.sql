@@ -1,0 +1,3 @@
+-- Q2
+SELECT DISTINCT job
+FROM emp;
